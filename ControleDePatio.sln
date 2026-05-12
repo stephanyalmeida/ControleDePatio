@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDePatio", "ControleDePatio\ControleDePatio.csproj", "{EDAD70F1-8A69-4E07-A90C-24997C61F8D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAD70F1-8A69-4E07-A90C-24997C61F8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAD70F1-8A69-4E07-A90C-24997C61F8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAD70F1-8A69-4E07-A90C-24997C61F8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAD70F1-8A69-4E07-A90C-24997C61F8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E74E64E0-536D-4D30-8897-A62B6D826C11}
+	EndGlobalSection
+EndGlobal
